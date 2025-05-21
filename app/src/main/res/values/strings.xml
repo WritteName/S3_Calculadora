@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">S3_Calculadora</string>
+
+    <string-array name="options_ope">
+        <item>Sumar</item>
+        <item>Restar</item>
+        <item>Multiplicar</item>
+        <item>Dividir</item>
+    </string-array>
+</resources>
